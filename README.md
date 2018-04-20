@@ -34,25 +34,69 @@ I collect a set of datasets for the sake of 3D reconstruction, hyperlinks for do
 | bunny | TUM | 36 | 84.9 MB| https://vision.in.tum.de/data/datasets/3dreconstruction | Yes |
 | head | TUM | 33 | 77.9 MB| https://vision.in.tum.de/data/datasets/3dreconstruction | Yes |
 | pig | TUM | 27 | 63.7 MB| https://vision.in.tum.de/data/datasets/3dreconstruction | Yes |
-| david |  |  |  |  | No |
+| david | Unknow | 26 | 1.9 MB  | https://github.com/AIBluefisher/3D-Recon_3D-DL_Datasets/Datasets/david | No |
+| Ajay | Unknow | 38 | 2.5 MB| https://github.com/AIBluefisher/3D-Recon_3D-DL_Datasets/Datasets/Ajay | No |
+| Apple | Unknow | 15 | 532.3 KB MB| https://github.com/AIBluefisher/3D-Recon_3D-DL_Datasets/Datasets/Apple | No |
+| cathedral | Unknow | 11 | 12.8 MB| https://github.com/AIBluefisher/3D-Recon_3D-DL_Datasets/Datasets/cathedral | No |
+| elephant | Unknow | 52 | 23.7 MB| https://github.com/AIBluefisher/3D-Recon_3D-DL_Datasets/Datasets/elephant | No |
+| ET | Unknow | 9 | 1.5 MB | https://github.com/AIBluefisher/3D-Recon_3D-DL_Datasets/Datasets/ET | No |
+| kermit | Unknow | 11 | 1.9 MB| https://github.com/AIBluefisher/3D-Recon_3D-DL_Datasets/Datasets/kermit | No |
 
 
 
-### Large-Scale Outdoor Scenes (Captured by Drone)
+
+
+### Outdoor Scenes
+| Dataset | Hosted Source | Images | Size | Hyperlinks | Ground Truth |
+| :--------   | :-----   | :----: | :----: | :---- | :----: |
+| Pozzoveggiani  | SAMANTHA | 54 | 4.7 MB| http://www.diegm.uniud.it/~fusiello/demo/samantha/ | Yes |
+| Piazza Dante   | SAMANTHA | 39 | 5.3 MB| http://www.diegm.uniud.it/~fusiello/demo/samantha/ | Yes |
+| Piazza Erbe   | SAMANTHA | 259 | 24 MB| http://www.diegm.uniud.it/~fusiello/demo/samantha/ | Yes |
+| Piazza Bra   | SAMANTHA | 380 | 821 MB| http://www.diegm.uniud.it/~fusiello/demo/samantha/ | Yes |
+| Piazza Bra (NEW)  | SAMANTHA | 331| 358 MB| http://www.diegm.uniud.it/~fusiello/demo/samantha/ | Yes |
+| San Giacomo   | SAMANTHA | 269| 522 MB| http://www.diegm.uniud.it/~fusiello/demo/samantha/ | Yes |
+| Navona   | SAMANTHA | 92| 432 MB| http://www.diegm.uniud.it/~fusiello/demo/samantha/ | Yes |
+
+
 
 
 ### Large-Scale Indoor Scenes
+| Dataset | Hosted Source | Images | Size | Hyperlinks | Ground Truth |
+| :--------   | :-----   | :----: | :----: | :---- | :----: |
+| TUM-LSI | TUM | 234 | - | https://github.com/NavVisResearch/NavVis-Indoor-Dataset/ | Yes |
+| Tanks & Temple | Tanks & Temple | - | - | https://www.tanksandtemples.org/download/ | Yes |
 
 
 
+### Google Streetview
+| Dataset | Hosted Source | Images | Size | Hyperlinks | Ground Truth |
+| :--------   | :-----   | :----: | :----: | :---- | :----: |
+| Streetview | Google | INF | INF | https://console.cloud.google.com/storage/browser/streetview_image_pose_3d/?pli=1 | Yes |
 
 
 
+### Aerial Datasets
+| Dataset | Hosted Source | Images | Size | Hyperlinks | Ground Truth |
+| :--------   | :-----   | :----: | :----: | :---- | :----: |
+| PKU | PKU GIL Lab | - | - | - | waitting for uploading | No |
 
 
 ## 2. Datasets for Semantic Segmentation
 
+| Dataset | Hosted Source | Images | Size | Hyperlinks | Type |
+| :--------   | :-----   | :----: | :----: | :---- | :----: |
+| KITTI | TUM | - | - | http://www.cvlibs.net/datasets/kitti/eval_semantics.php | Dynamic Scenes |
+|  PKU| PKU GIL Lab | - | -  | https://github.com/PKUGIL/PSSI | Aerial Photo |
+| Cityscapes | Cityscapes | - | - | https://www.cityscapes-dataset.com/ | Urban Street Scenes |
+
+
 
 ## 3. Datasets for Feature&Descriptor Learning
+
+waitting for updating
+
+## 4. Datasets for Depth Estimation
+
+waitting for updating
 
 
